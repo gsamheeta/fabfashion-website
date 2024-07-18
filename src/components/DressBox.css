@@ -1,0 +1,31 @@
+.dress-box {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* Space out children elements */
+}
+
+.image-container {
+    flex-grow: 1; /* Allow image to grow and fill available space */
+    display: flex;
+    align-items: center; /* Center image vertically */
+    justify-content: center; /* Center image horizontally */
+}
+
+.dress-box img {
+    width: 100%;
+    height: auto;
+    max-height: 300px; /* Adjust the height as needed */
+    object-fit: cover;
+}
+
+.dress-box h3 {
+    font-size: 1.1em;
+    margin-top: 10px;
+    flex-shrink: 0; /* Prevent title from shrinking */
+}
