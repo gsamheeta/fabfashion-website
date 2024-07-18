@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+# fabfashion-website
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -69,7 +68,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# fabfashion-website
-shopping-website
->>>>>>> a1da578cc0902e658ad9591630cab5cc37d9ce3c
